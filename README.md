@@ -2,7 +2,7 @@
 
 <div align="center" >
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=1e232a&text=Hi,%20my%20name%20is%20Dan!&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1e232a&text=Hi,%20my%20name%20is%20Dan!&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
 ### Find me at:
 
@@ -28,40 +28,41 @@
 
 #### Main Stack:
 
-![Native](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![React](https://img.shields.io/badge/React-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Git](https://img.shields.io/badge/GIT-f05639?style=for-the-badge&logo=git&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-3d9dd7?style=for-the-badge&logo=css3&logoColor=white)
-![HTML](https://img.shields.io/badge/HTML-e5532c?style=for-the-badge&logo=html5&logoColor=white)
+![Native](https://img.shields.io/badge/React_Native-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-181c24?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-181c24?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
+![React](https://img.shields.io/badge/React-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
+![Git](https://img.shields.io/badge/GIT-181c24?style=for-the-badge&logo=git&logoColor=f05639)&nbsp;
+![CSS](https://img.shields.io/badge/CSS-181c24?style=for-the-badge&logo=css3&logoColor=3d9dd7)&nbsp;
+![HTML](https://img.shields.io/badge/HTML-181c24?style=for-the-badge&logo=html5&logoColor=e5532c)&nbsp;
 
 #### Studying in this moment:
 
-![Native](https://img.shields.io/badge/React_Native-282c34?style=for-the-badge&logo=react&logoColor=61DAFB)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=fff)
+![Native](https://img.shields.io/badge/React_Native-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 
 #### Databases:
 
-![MySQL](https://img.shields.io/badge/mysql-005c84.svg?style=for-the-badge&logo=mysql&logoColor=ffffff)
+![MySQL](https://img.shields.io/badge/mysql-181c24.svg?style=for-the-badge&logo=mysql&logoColor=005c84)&nbsp;
 
 #### UX / UI Design:
 
-![Illustrator](https://img.shields.io/badge/Illustrator-17181c?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)
-![canva](https://img.shields.io/badge/Canva-17181c.svg?&style=for-the-badge&logo=Canva&logoColor=2300C4CC)
-![Figma](https://img.shields.io/badge/Figma-17181c?style=for-the-badge&logo=figma&logoColor=F24E1E)
+![Illustrator](https://img.shields.io/badge/Illustrator-181c24?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)&nbsp;
+![canva](https://img.shields.io/badge/Canva-181c24.svg?&style=for-the-badge&logo=Canva&logoColor=2300C4CC)&nbsp;
+![Figma](https://img.shields.io/badge/Figma-181c24?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
 
 #### Development Environment:
 
-![Windows](https://img.shields.io/badge/Windows-17181c?style=for-the-badge&logo=windows&logoColor=0078D6)
-![vscode](https://img.shields.io/badge/VS_Code-17181c?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)
-![Expo](https://img.shields.io/badge/expo-17181c?style=for-the-badge&logo=expo&logoColor=fff)
-![Android](https://img.shields.io/badge/Android-17181c?style=for-the-badge&logo=android&logoColor=3DDC84)
+![Windows](https://img.shields.io/badge/Windows-181c24?style=for-the-badge&logo=windows&logoColor=0078D6)&nbsp;
+![vscode](https://img.shields.io/badge/VS_Code-181c24?style=for-the-badge&logo=visual%20studio%20code&logoColor=0078D4)&nbsp;
+![Expo](https://img.shields.io/badge/expo-181c24?style=for-the-badge&logo=expo&logoColor=fff)&nbsp;
+![Android](https://img.shields.io/badge/Android-181c24?style=for-the-badge&logo=android&logoColor=3DDC84)&nbsp;
 
 #
 
 <div align="center" >
-  
-    🔋 G>ΛV | 🏠 Family | 🧠 Tech | 🦾 Gym | 👽 Electronic Music | 🎮 Games | ✈️ Travel 
 
+````bash
+     # G>ΛV  |  Family  |  Tech  |  Gym  |  Electronic Music  |  Games  |  Books  |  Travel 
+````
 </div>
