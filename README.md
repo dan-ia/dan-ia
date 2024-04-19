@@ -2,15 +2,27 @@
 
 <div align="center" >
   
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=180&color=282c34&text=Hi,%20my%20name%20is%20Dan!&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=140&color=1e232a&text=Hi,%20my%20name%20is%20Dan!&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
-<img src="banner.png" width="70%" >
+### Find me at:
 
-<h2> 
+[![Linkedin](https://img.shields.io/badge/Linkedin-0967c5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dan-ia/)
+[![Gmail](https://img.shields.io/badge/Gmail-505050?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieillsilvarv411@gmail.com)
+[![Instagram](https://img.shields.io/badge/Instagram-fb0758?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/d44ns/)
+[![Discord](https://img.shields.io/badge/Discord-606dea?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/3bn2DbrygK)
+[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=fff)](https://www.duolingo.com/profile/d44ns)
+[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=fff)](https://soundcloud.com/d44ns)
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e232a&reversal=false&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
+
+#
+
+<h3> 
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px">
   Skills
   <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20px">
-</h2>
+</h3>
 
 </div>
 
@@ -46,20 +58,10 @@
 ![Expo](https://img.shields.io/badge/expo-17181c?style=for-the-badge&logo=expo&logoColor=fff)
 ![Android](https://img.shields.io/badge/Android-17181c?style=for-the-badge&logo=android&logoColor=3DDC84)
 
-</div>
+#
 
 <div align="center" >
+  
+    🔋 G>ΛV | 🏠 Family | 🧠 Tech | 🦾 Gym | 👽 Electronic Music | 🎮 Games | ✈️ Travel 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e232a&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
-
-### Find me at:
-
-[![Linkedin](https://img.shields.io/badge/Linkedin-0967c5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dan-ia/)
-[![Gmail](https://img.shields.io/badge/Gmail-505050?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieillsilvarv411@gmail.com)
-[![Instagram](https://img.shields.io/badge/Instagram-fb0758?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/d44ns/)
-[![Discord](https://img.shields.io/badge/Discord-606dea?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/3bn2DbrygK)
-[![Duolingo](https://img.shields.io/badge/Duolingo-58CC02?style=for-the-badge&logo=Duolingo&logoColor=fff)](https://www.duolingo.com/profile/d44ns)
-[![SoundCloud](https://img.shields.io/badge/SoundCloud-FF3300?style=for-the-badge&logo=soundcloud&logoColor=fff)](https://soundcloud.com/d44ns)
 </div>
-
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=1e232a&reversal=false&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
