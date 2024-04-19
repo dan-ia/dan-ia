@@ -1,10 +1,9 @@
 <div align="center" >
   
-  ### 🪶 Hi, my name is Dan! 
-  
-<img src="banner.png" width="70%" >
+### 🪶 Hi, my name is Dan! 
 
 #### I am currently focused on mobile application development. Using React Native and Expo as my main tool.
+<br>
 
 ## Skills
 
@@ -45,8 +44,8 @@
 </div>
 
 <div align="center" >
- 
-## 
+
+<img src="banner.png" width="70%" >
  
 ### Find me at:
 
