@@ -2,11 +2,13 @@
   
   ### 🪶 Hi, my name is Dan! 
   
-<img src="banner.png" style="object-fit: cover" height="285" width="80%" >
+<img src="banner.png" width="70%" >
 
-I am currently focused on mobile application development. Using React Native and Expo as my main tool.
+#### I am currently focused on mobile application development. Using React Native and Expo as my main tool.
 
-##
+## Skills
+
+</div>
 
 #### Main Stack:
 
@@ -46,7 +48,7 @@ I am currently focused on mobile application development. Using React Native and
  
 ## 
  
-#### Find me at:
+### Find me at:
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0967c5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dan-ia/)
 [![Gmail](https://img.shields.io/badge/Gmail-505050?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieillsilvarv411@gmail.com)
