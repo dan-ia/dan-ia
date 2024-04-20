@@ -17,7 +17,7 @@
 
   <div align="center">
     <a href="https://github.com/dan-ia/convoychat">
-       <img width="52%" align="center" src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=github&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_border=true&theme=transparent&text_color=dddddd" />
+       <img width="" align="center" src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=github&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_border=true&theme=transparent&text_color=dddddd" />
      </a>
      <a href="https://github.com/dan-ia/github-readme-stats">
        <img width="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-ia&langs_count=2&title_color=7b7b7b&hide=css,html&hide_border=true&theme=transparent&hide_title=false&text_color=7b7b7b" />
