@@ -1,7 +1,7 @@
 <div align="center" >
 
 ````bash
-     # G>ΛV  |  Family  |  Tech  |  Gym  |  Electronic Music  |  Games  |  Books  |  Travel
+# G>ΛV  |  Family  |  Tech  |  Gym  |  Electronic Music  |  Games  |  Books  |  Travel
 ````
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=1e232a&text=Hi,%20my%20name%20is%20Dan!&reversal=false&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
