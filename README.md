@@ -80,7 +80,7 @@
 
 #### *Visits Today:*
 
-![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=🌱&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
 
 
 #
