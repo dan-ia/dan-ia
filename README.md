@@ -14,15 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-fb0758?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/d44ns/)
 [![Discord](https://img.shields.io/badge/Discord-606dea?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/3bn2DbrygK)
 
-
-  <div align="center">
-    <a href="https://github.com/dan-ia/convoychat">
-       <img width="" align="center" src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=github&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_border=true&theme=transparent&text_color=dddddd" />
-     </a>
-     <a href="https://github.com/dan-ia/github-readme-stats">
-       <img width="" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-ia&langs_count=2&title_color=7b7b7b&hide=css,html&hide_border=true&theme=transparent&hide_title=false&text_color=7b7b7b" />
-     </a>
-  </div>
+  
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20252c&reversal=true&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
@@ -34,6 +26,13 @@
 
 <details>
 <summary> </summary>
+
+<div align="center">
+
+  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-ia&langs_count=1&title_color=7b7b7b&hide=css,html&hide_border=true&theme=transparent&hide_title=true&text_color=7b7b7b"/>   
+  <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues,stars,prs,commits&rank_icon=github&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_title=true&hide_border=true&theme=transparent&text_color=dddddd" />
+   <img width="30%" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dan-ia&langs_count=1&title_color=7b7b7b&hide=,typescript,css,html&hide_border=true&theme=transparent&hide_title=true&text_color=7b7b7b" />
+  </div>
 
   
 #### *Main Stack:*
