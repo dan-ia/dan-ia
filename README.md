@@ -76,6 +76,15 @@
 ![Expo](https://img.shields.io/badge/expo-161b22?style=for-the-badge&logo=expo&logoColor=fff)&nbsp;
 ![Android](https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84)&nbsp;
 
+#
+
+#### *Visits Today:*
+
+![Visitors](https://api.visitorbadge.io/api/daily?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
+
+
+#
+
 </details>
 
 </div>
