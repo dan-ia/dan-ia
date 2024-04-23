@@ -1,5 +1,8 @@
 <div align="center" >
-
+  
+````bash
+# G>ΛV  |  Family  |  Tech  |  Gym  |  Electronic Music  |  Games  |  Books  |  Travel
+````
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=20252c&text=Hi,%20my%20name%20is%20Dan!&reversal=true&section=header&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&desc=I%20am%20currently%20focused%20on%20mobile%20application%20development.%20Using%20React%20Native%20and%20Expo%20as%20my%20main%20tool.&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
@@ -14,16 +17,11 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20252c&reversal=true&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
 
-````bash
-# G>ΛV  |  Family  |  Tech  |  Gym  |  Electronic Music  |  Games  |  Books  |  Travel
-````
-
-
-<h1> 
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" height="25" />
+<h3> 
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20" />
   Skills
-  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="25" height="25" />
-</h1>
+  <img src="https://user-images.githubusercontent.com/74038190/216122041-518ac897-8d92-4c6b-9b3f-ca01dcaf38ee.png" width="20" height="20" />
+</h3>
 
 <details>
 <summary> </summary>
@@ -78,7 +76,7 @@
 
 #
 
-<br><br>
+<br>
 
 #### Git Hub Stats:
 
@@ -86,11 +84,11 @@
 <summary> </summary>
 
 <div align="center">
-
+<br>
 
 <div align="center">
 <img  src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=310&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00&hide_longest_streak=true" alt="GitHub Streak" />
-<img width="60%"  src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=percentile&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_title=false&hide_border=true&theme=transparent&text_color=dddddd" />  
+<img width="60%"  src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs&rank_icon=percentile&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_title=true&hide_border=true&theme=transparent&text_color=dddddd" />  
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
@@ -99,7 +97,7 @@
 
 #### *Visits:*
 
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=🌱&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
   
 </div>
 </details>
