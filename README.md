@@ -89,8 +89,8 @@
 
 
 <div align="center">
-<img widht="" src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=400&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00&hide_longest_streak=true" alt="GitHub Streak" />
-<img width="50%"  src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=percentile&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_title=false&hide_border=true&theme=transparent&text_color=dddddd" />  
+<img widht="44%" src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=350&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00&hide_longest_streak=true" alt="GitHub Streak" />
+<img width="54%"  src="https://github-readme-stats.vercel.app/api?username=dan-ia&hide=contribs,issues&rank_icon=percentile&show_icons=true&title_color=7b7b7b&icon_color=7b7b7b&ring_color=dddddd&hide_title=false&hide_border=true&theme=transparent&text_color=dddddd" />  
 </div>
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
