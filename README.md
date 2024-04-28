@@ -49,7 +49,7 @@
 #### *Studying in this moment:*
 
 ![Native](https://img.shields.io/badge/React_Native-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=6DA55F)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=eab676)&nbsp;
 
 
 #
