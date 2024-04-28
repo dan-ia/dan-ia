@@ -14,7 +14,7 @@
 [![Instagram](https://img.shields.io/badge/Instagram-fb0758?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/d44ns/)
 [![Discord](https://img.shields.io/badge/Discord-606dea?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/3bn2DbrygK)
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=20252c&reversal=true&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=20252c&reversal=true&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
 
 
 <h3> 
@@ -38,9 +38,8 @@
 
 ![Native](https://img.shields.io/badge/React_Native-161b22?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
-![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
-![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-161b22?style=for-the-badge&logo=git&logoColor=f05639)&nbsp;
+![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css3&logoColor=3d9dd7)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-161b22?style=for-the-badge&logo=html5&logoColor=e5532c)&nbsp;
 
@@ -48,8 +47,7 @@
 
 #### *Studying in this moment:*
 
-![Native](https://img.shields.io/badge/React_Native-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
-![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=FFFF00)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=ffcc30)&nbsp;
 
 
 #
@@ -57,14 +55,13 @@
 #### *Databases:*
 
 ![MySQL](https://img.shields.io/badge/mysql-161b22.svg?style=for-the-badge&logo=mysql&logoColor=005c84)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+![NodeJS](https://img.shields.io/badge/node-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 
 #
 
 #### *UX / UI Design:*
 
 ![Illustrator](https://img.shields.io/badge/Illustrator-181c24?style=for-the-badge&logo=adobe%20illustrator&logoColor=FF9A00)&nbsp;
-![canva](https://img.shields.io/badge/Canva-161b22.svg?&style=for-the-badge&logo=Canva&logoColor=2300C4CC)&nbsp;
 ![Figma](https://img.shields.io/badge/Figma-161b22?style=for-the-badge&logo=figma&logoColor=F24E1E)&nbsp;
 
 #
@@ -87,6 +84,7 @@
 
 <div align="center">
 
+<img src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00" alt="GitHub Streak" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=dan-ia&theme=github-compact&hide_border=true&hide_title=true&area=true&area_color=dddddd&line=dddddd"/>
