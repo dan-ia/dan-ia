@@ -49,13 +49,15 @@
 #### *Studying in this moment:*
 
 ![Native](https://img.shields.io/badge/React_Native-181c24?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
-![NodeJS](https://img.shields.io/badge/node.js-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=6DA55F)&nbsp;
+
 
 #
 
 #### *Databases:*
 
 ![MySQL](https://img.shields.io/badge/mysql-161b22.svg?style=for-the-badge&logo=mysql&logoColor=005c84)&nbsp;
+![NodeJS](https://img.shields.io/badge/node.js-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 
 #
 
