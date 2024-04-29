@@ -54,7 +54,6 @@
 
 #### *Databases:*
 
-![MySQL](https://img.shields.io/badge/mysql-161b22.svg?style=for-the-badge&logo=mysql&logoColor=005c84)&nbsp;
 ![NodeJS](https://img.shields.io/badge/node-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
 
 #
