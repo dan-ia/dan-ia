@@ -82,7 +82,6 @@
 <summary> </summary>
 
 <div align="center">
-
 <img src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00" alt="GitHub Streak" />
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph">
