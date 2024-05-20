@@ -10,7 +10,7 @@
 
 [![Linkedin](https://img.shields.io/badge/Linkedin-0967c5?style=for-the-badge&logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/dan-ia/)
 [![Gmail](https://img.shields.io/badge/Gmail-505050?style=for-the-badge&logo=gmail&logoColor=white)](mailto:danieillsilvarv411@gmail.com)
-![Telegram](https://img.shields.io/badge/Telegram-336c87?style=for-the-badge&logo=telegram&logoColor=white)
+[![Telegram](https://img.shields.io/badge/Telegram-336c87?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/dan_iai)
 [![Instagram](https://img.shields.io/badge/Instagram-fb0758?style=for-the-badge&logo=instagram&logoColor=fff)](https://www.instagram.com/d44ns/)
 [![Discord](https://img.shields.io/badge/Discord-606dea?style=for-the-badge&logo=discord&logoColor=fff)](https://discord.gg/3bn2DbrygK)
 
