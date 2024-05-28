@@ -72,31 +72,7 @@
 ![Expo](https://img.shields.io/badge/expo-161b22?style=for-the-badge&logo=expo&logoColor=fff)&nbsp;
 ![Android](https://img.shields.io/badge/Android-161b22?style=for-the-badge&logo=android&logoColor=3DDC84)&nbsp;
 
-#
 
-<br>
-
-#### Git Hub Stats:
-
-<details>
-<summary> </summary>
-
-<div align="center">
-<img src="https://streak-stats.demolab.com?user=dan-ia&theme=transparent&hide_border=true&date_format=j%20M%5B%20Y%5D&mode=weekly&card_width=700&stroke=DDDDDD&ring=363A3E&fire=DDDDDD&currStreakNum=DDDDDD&sideNums=DDDDDD&currStreakLabel=DDDDDD&sideLabels=DDDDDD&dates=777777&stroke=EBEBEB00" alt="GitHub Streak" />
-
-<a href="https://github.com/ashutosh00710/github-readme-activity-graph">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=dan-ia&theme=github-compact&hide_border=true&hide_title=true&area=true&area_color=dddddd&line=dddddd"/>
-</a>
-
-#### *Visits:*
-
-![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Fdan-ia&label=&labelColor=%230d1117&countColor=%230d1117&labelStyle=upper)
-  
-</div>
-</details>
-
-
-</details>
 
 </div>
 
