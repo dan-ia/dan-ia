@@ -46,12 +46,13 @@
 
 #
 
+<!--  
 #### *Studying in this moment:*
 
 ![Firebase](https://img.shields.io/badge/Firebase-181c24?style=for-the-badge&logo=firebase&logoColor=ffcc30)&nbsp;
 
-
 #
+-->
 
 #### *Databases:*
 
