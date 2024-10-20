@@ -37,9 +37,9 @@
 #### *Main Stack:*
 
 ![Native](https://img.shields.io/badge/React_Native-161b22?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
+![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=for-the-badge&logo=typescript&logoColor=007ACC)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-161b22?style=for-the-badge&logo=git&logoColor=f05639)&nbsp;
-![React](https://img.shields.io/badge/React-161b22?style=for-the-badge&logo=react&logoColor=61dafb)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=for-the-badge&logo=javascript&logoColor=F7DF1E)&nbsp;
 ![CSS](https://img.shields.io/badge/CSS-161b22?style=for-the-badge&logo=css3&logoColor=3d9dd7)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML-161b22?style=for-the-badge&logo=html5&logoColor=e5532c)&nbsp;
@@ -57,6 +57,8 @@
 #### *Databases:*
 
 ![NodeJS](https://img.shields.io/badge/node-181c24?style=for-the-badge&logo=node.js&logoColor=6DA55F)&nbsp;
+![Mongo](https://img.shields.io/badge/MongoDB-181c24?style=for-the-badge&logo=mongodb&logoColor=4EA94B)&nbsp;
+![SQL](https://img.shields.io/badge/MySQL-181c24?style=for-the-badge&logo=mysql&logoColor=005C84)&nbsp;
 
 #
 
