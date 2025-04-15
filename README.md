@@ -16,7 +16,7 @@
 
 
 ### *Last Project:*
-#### <a href="www.parceiropetfeel.com.br">Parceiro PetFeel</a>
+#### <a href="https://parceiropetfeel.com.br/">Parceiro PetFeel</a>
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=160&color=20252c&reversal=true&section=footer&fontAlign=50&textBg=false&fontSize=20&animation=fadeIn&descSize=13&descAlignY=53&fontAlignY=29&fontColor=fff"/>
